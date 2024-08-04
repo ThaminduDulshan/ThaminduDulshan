@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer with experti
 
 ## 🌟 About Me
 
-Hi there! I'm [Your Name], a Full Stack Developer with a love for building innovative and efficient applications. I have a strong background in both front-end and back-end technologies, which allows me to create complete, end-to-end solutions.
+Hi there! I'm Thamindu Dulshan, a Full Stack Developer with a love for building innovative and efficient applications. I have a strong background in both front-end and back-end technologies, which allows me to create complete, end-to-end solutions.
 
 With experience in HTML, CSS, and JavaScript, I specialize in crafting responsive and visually appealing user interfaces. On the back end, I leverage Node.js, Express.js, PHP, and Java Spring Boot to develop robust and scalable server-side applications. My passion for coding drives me to continuously learn and adapt to new technologies, ensuring that my solutions are both modern and effective.
 
