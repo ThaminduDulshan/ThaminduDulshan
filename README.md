@@ -38,27 +38,6 @@ With experience in HTML, CSS, and JavaScript, I specialize in crafting responsiv
 - **Java Spring Boot:** Building enterprise-level applications with a focus on reliability and scalability.
 
 
-## 📈 Projects
-
-Here are some of the projects I've worked on:
-
-1. **[Project Name](#)**  
-   Description of the project, technologies used, and any notable achievements.
-
-2. **[Project Name](#)**  
-   Description of the project, technologies used, and any notable achievements.
-
-3. **[Project Name](#)**  
-   Description of the project, technologies used, and any notable achievements.
-
-## 📫 Contact Me
-
-Feel free to reach out to me through the following channels:
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [@yourusername](#)
-
 ## 🚀 Let's Build Something Great!
 
 I’m always excited to collaborate on innovative projects and explore new technologies. If you have an interesting idea or a project that could use my expertise, let’s connect!
