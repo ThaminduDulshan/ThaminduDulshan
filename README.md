@@ -42,5 +42,5 @@ With experience in HTML, CSS, and JavaScript, I specialize in crafting responsiv
 
 I’m always excited to collaborate on innovative projects and explore new technologies. If you have an interesting idea or a project that could use my expertise, let’s connect!
 
-config
-github-config
+    config
+    github-config
