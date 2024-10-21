@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer Portfolio 🚀
+# 🚀 Full Stack And Destop Application Dev 🚀
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer with expertise in a variety of technologies. Below you'll find an overview of my skills and the technologies I work with.
 
